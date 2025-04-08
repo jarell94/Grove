@@ -1,0 +1,6 @@
+<script>start("/Users/rell/grover/server/routes/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("auth.js","auth.js",0,2221,"2.2 kB",1744077209,"4/7/25, 8:53:29 PM");</script>
+<script>addRow("products.js","products.js",0,2310,"2.3 kB",1744080577,"4/7/25, 9:49:37 PM");</script>
+<script>addRow("store.js","store.js",0,1394,"1.4 kB",1744080660,"4/7/25, 9:51:00 PM");</script>
+<script>addRow("upload.js","upload.js",0,320,"320 B",1744077258,"4/7/25, 8:54:18 PM");</script>

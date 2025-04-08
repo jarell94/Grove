@@ -1,0 +1,12 @@
+<script>start("/Users/rell/grover/server/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("config","config",1,96,"96 B",1744074073,"4/7/25, 8:01:13 PM");</script>
+<script>addRow("controllers","controllers",1,96,"96 B",1744073794,"4/7/25, 7:56:34 PM");</script>
+<script>addRow("middleware","middleware",1,128,"128 B",1744077027,"4/7/25, 8:50:27 PM");</script>
+<script>addRow("models","models",1,128,"128 B",1744063274,"4/7/25, 5:01:14 PM");</script>
+<script>addRow("routes","routes",1,192,"192 B",1744079654,"4/7/25, 9:34:14 PM");</script>
+<script>addRow(".DS_Store",".DS_Store",0,6148,"6.0 kB",1744067236,"4/7/25, 6:07:16 PM");</script>
+<script>addRow(".env",".env",0,160,"160 B",1744076854,"4/7/25, 8:47:34 PM");</script>
+<script>addRow("index.js","index.js",0,1737,"1.7 kB",1744074885,"4/7/25, 8:14:45 PM");</script>
+<script>addRow("real time react componet","real%20time%20react%20componet",0,596,"596 B",1744063951,"4/7/25, 5:12:31 PM");</script>
+<script>addRow("srver.js","srver.js",0,714,"714 B",1744079721,"4/7/25, 9:35:21 PM");</script>
